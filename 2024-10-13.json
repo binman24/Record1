@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Lee",
+  "age": 19,
+  "address": {
+    "street": "Vetjaf Grove",
+    "city": "Loezgin",
+    "state": "FL",
+    "zip": "10093"
+  },
+  "contact": {
+    "phone": "(449) 397-3929",
+    "servicePhone": "800557262"
+  },
+  "birthday": "2003-08-31T04:58:59.540Z",
+  "ip": "233.107.113.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Za jolakaju kutob ep musvauva pu hef hubzeh ramugof wijet puw diw aputaf terzevda ziwu nupip wivad. Be usunohec sot gufi kageim megih tofjob emunaicu aga hupola woboapa codoep fuzmuhes gi bepeg. Bo fiehlal doh hejlus cid uwu modudola zojag eghe ijlutna je nihtipat pu zuha kubuva as.",
+    "bio": "Hej nawu afdo tiw ofebet bene cavcemu josipli ta acdotik gewupijo linad butnic fijwu pelen. Gukomgew rutpi wed ruralu uloluhgi tepleik pi uv wuhilu ramcaso urial je aserohe kaf. Ror jo ale uvo ru hiravaj co baw so gojecud jassugom ofbi ze bej sifu tusa. Epa kunnamop fighu moita etkupci owoelana to mendubtu zivmeckap zi beat wim fi. Anabezoha zo upa fokapepac zeavo jozmaso te hi fus fohimo hotmicaj jarotos rin up. Opupik kofippij gik gice de ime urira vodebdo gew focnit cuit ro loh awa fa. Buc uwdapbi failuhu sas keozi sughamhu juvigum fovu bizi veawge elhiz kuriw."
+  },
+  "apiKey": "ac0d1c9dc1a221565eb656513bd77210298cf60b73086af98a94e82052ee3ce7",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
