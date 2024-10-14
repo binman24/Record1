@@ -1,0 +1,26 @@
+{
+  "name": "Jayden Olson",
+  "age": 63,
+  "address": {
+    "street": "Weri Highway",
+    "city": "Zutaveg",
+    "state": "MA",
+    "zip": "96967"
+  },
+  "contact": {
+    "phone": "(625) 235-2944",
+    "servicePhone": "800758762"
+  },
+  "birthday": "1973-02-18T03:37:41.364Z",
+  "ip": "116.18.30.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Pus magohgur gus vulili lisuhpis wepmev lowlutma bol sog tehtuji gar ef bog gi amu. Ze owepiob kezewiv da jevnidsit eluubpo rojubori cowge nemagi hofugvo eh rinus zupdilwa gu. Zi cetredil fob upanitzo topsefu jeibcoh gufodoz hil ad teken pulup kuvkap. Addo koketizik fa judup zi ra ecjejeze curvitliw manuw mahtoub roshaz sotsu uke. Tasko latufju uf cupuij fip moluw mipumoga po kucu muodo buzpas zuufo wuwubka.",
+    "bio": "Ese rantezso almehub opeehike os fijzemtuw doj emeb halris ba guvaznil latewias dujbocwe iheehi oramovzi ebogi. Ovobimu vukobar umduj wez obi ton fozopufe setro mut cedje heb otadapo hew vama. Bopual el arubuwcuf vamcak jasuefi hak vutpo onijafsu kahot visozfem he huvekuj mikpos gerijben. Four zimim ufujuota rah nikevufe cidig tul boec vievaca ak rikoc mopina. Gif afif upure lo we pauhoad lug omivarvuz neinpu fobjo bidapnet be ere."
+  },
+  "apiKey": "e3269bee72af1fe74f6b3c29f362164c9613544b210907ccb6da111f1c61fc3c",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
