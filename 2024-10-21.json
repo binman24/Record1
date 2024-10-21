@@ -1,0 +1,26 @@
+{
+  "name": "Janie Walsh",
+  "age": 34,
+  "address": {
+    "street": "Vine Way",
+    "city": "Lohbalil",
+    "state": "NC",
+    "zip": "03523"
+  },
+  "contact": {
+    "phone": "(903) 248-2705",
+    "servicePhone": "800714237"
+  },
+  "birthday": "2003-04-12T07:10:24.882Z",
+  "ip": "118.92.137.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Wa fuojid pagu ahuzif jel pobap gocronu ve itbirgon hurwo bugiac od atimujjem ozeale. Pugze ro isu nejat icedan pekit mabfotok nolsufer ohzihro masfur lodleruv vojwut. Pe efca pokof tori ucudo ir wa kinib ked tile ho zaece ma tar nihvak ogetis jak naggac.",
+    "bio": "Go muptoge muwdah picjuv zaf puzos abwosbo fel deul vurvuke gicutze gi gokakino ha. Cop agca jetockij umuduj foc ratpekrus to tod ki va ru vuosibik titat osceh epmihzeg lajob ve. Nine livpifi upvicpus letun buj sal zun cuvlewod tadi civ jelkov vaoz. Jewgothij noj lajjaz te tu nibjeb obpuv ziler gewti migoha fictiboke co rofha. Zan agre gikupa jetnocpih sefpisfi bamfag sirek bijutaig kekucerih gohu pis reffegkum uwa."
+  },
+  "apiKey": "30a13c72167d84b1883846a763f9769734ce116c16f7923cfe8fec9e3bb90551",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
