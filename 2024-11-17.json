@@ -1,0 +1,26 @@
+{
+  "name": "Janie Doyle",
+  "age": 63,
+  "address": {
+    "street": "Zitpad Heights",
+    "city": "Farjibed",
+    "state": "ME",
+    "zip": "98250"
+  },
+  "contact": {
+    "phone": "(544) 449-8435",
+    "servicePhone": "800118875"
+  },
+  "birthday": "1971-11-25T02:52:32.101Z",
+  "ip": "59.116.142.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Boc to roc hiwujor nef sa ada rafebo dubo gedcuog taogi awlicuc jufa dujita nab. Da eb gocazug hujfifvek nogmag pa dimno ododujum tizgih gutrum oztoz wuffu ge vito ero zeasuve haim. Kacejow idobad ib oz jalav zuj hon majeme fize zufamhab neb uh.",
+    "bio": "Hilwo lijzek cup redfippis munim iti mim mu ofepa azjilo fi un beod kogmapruj ud vik capog afeubaoni. Pal defoki cudehe birowik logbepwih ura vafmod cene ze nu ipesuv botaaj worcocif ebetifoc. Timtojij nu gegoneh satum ukibosir siciz odeine dubsikjuz ilefu oj dijeset sizrifnit tawocfa zubjuludu uz wosah ba."
+  },
+  "apiKey": "5e8ae2f0659dea3cc9ebd2189fb054c1b04e242802cd8919e1bd0d9dc30de1a6",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
