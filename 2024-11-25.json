@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Gray",
+  "age": 18,
+  "address": {
+    "street": "Papuha Place",
+    "city": "Sagvezik",
+    "state": "VA",
+    "zip": "72509"
+  },
+  "contact": {
+    "phone": "(942) 372-1715",
+    "servicePhone": "800939988"
+  },
+  "birthday": "1993-08-03T05:19:59.333Z",
+  "ip": "77.91.85.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Mihogimi pojfoga jig ja nihu co rebur na bitikalov zopig wagfu rowu wi zewuskuc ke fenihe raj zizutev. Ciguhli nugzo fusohos lasa ramiajo po ru luombu don ka wiv wolpe ziowvi ogijuvdi fo pah. Pozewva nifim acupvi irsa kihowpe horlozhow latru kuw zunpaj setisfoz zujfefo eveloanu nujja. Jek miecaovi lalic gedkur vufwam asfo oto othom hoc fib vos vodnu la mi. Kejjis tikomu ej suhze ecedwu sa kukeno funhoodi lu poopo gusufab tecpe.",
+    "bio": "Penog li hadma ko utgo mog us aducuwuv abocijut kil salis ces se batutol. Pivir hej votevde cuodi wamte odeogurib afeemegaz ickastus pub tow keskucli iwe obko ribumpu fivo. Sofunul zo titjen wiggitedu pe te vatbo pak vefdos selahzod rami kuvgedak evbabfi corfaf lumpulok. Ju zolrugeb miwec workeki opvud didubba ceopoefe zil sirrizsim cegumgi pulzo utipa farweta ma rinsaneni wohavova."
+  },
+  "apiKey": "01d1a2e9d5681533ac5e6de22f8ac6b017f5a042c5b21e14cb702a1b955a4bd7",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
