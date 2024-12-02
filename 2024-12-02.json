@@ -1,0 +1,26 @@
+{
+  "name": "Marie Barker",
+  "age": 50,
+  "address": {
+    "street": "Nozaz View",
+    "city": "Hehafip",
+    "state": "AZ",
+    "zip": "21249"
+  },
+  "contact": {
+    "phone": "(529) 315-8644",
+    "servicePhone": "800684487"
+  },
+  "birthday": "1979-09-10T10:48:57.771Z",
+  "ip": "130.81.49.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Mafa gagiom amu zi danci duv rupujokam etabohoz eju cohij nojbo vufu tibvanne cofdaigo lut hofke. Gour zod bap owpip otbavbu robohdak po vorej niniw wotnazi ezlogozu pilu. Wucig webez piwi bun awouri couwu wenituj towahu ga bew sik veccu guruape ve moji evsi ra.",
+    "bio": "Eti co ries tivhaep rojohob miehrag os uweava ginme madauk fa til apnef orba. Uh et cibeteb je awu veissec houb ro suslava va ke zo mezuf. Tegoga ro ma laag baj duthab gojmivka no bani jizjup im curporpof hapdudfeb elu pafiv okremi. Owasoj oh ibueti lena ca botihro boj ujowidki reproc tedkaltu wo ekreset wewim."
+  },
+  "apiKey": "079a63b261bfd7a08526ea98ea4c72017aaca4dae5c51a9d1c8070a0585e509e",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
