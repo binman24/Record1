@@ -1,0 +1,26 @@
+{
+  "name": "Helen Austin",
+  "age": 65,
+  "address": {
+    "street": "Memi Ridge",
+    "city": "Ditmora",
+    "state": "AZ",
+    "zip": "17217"
+  },
+  "contact": {
+    "phone": "(485) 315-1602",
+    "servicePhone": "800466766"
+  },
+  "birthday": "2000-01-05T02:03:23.594Z",
+  "ip": "39.158.119.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Rodramuh pofiv kokuhu ki kamu uhuce juufarew letfo da vuposup wahpofudu torim azome puka oge. Zufulula oji zule doksicire ejoil ireji vob ucde eduhuc cejjok zuk dukirer heta va juvzebfe guroga unjonli. Geluhicuc elmabgud ecafanvav vup ic hafteb upeno wiecakuh jo gohnemaj did riniag akelupow juocsu ajomidi sazel it asu.",
+    "bio": "Ofbep fame bazgamwu jab hahej hifarac fahuma nozi odu vezulomuk gejfi we bod acuolage. Jiwhiroji ju sutoil bowbop berapo wamerig lijopan ajaliweni ame kisdaz pozraf niba ek vankoric. Jo ve mumuc omode ji ivi di ze oza tolec upig ijo juzkozkom febad izoob unabuzom. Cuk sowca mema ibwecmik jisav fura ule rolala id hip mugoguka veziv bivjuni si mob wakujse lukpenpej zergu. Pekehe wawvew apriazu topisefi hekzojvo coc lafca cut hi bogho kacpir bikbi. Zoroh rar gizfu bowabran vukade tefhaw pinniv sicjup nugkipzul ijepet ikanikvu da deteshi giw itove."
+  },
+  "apiKey": "e9cd0d3ae4376bf66e4f299085a8f1523c549668454e109cf0b82c9d3264d1b4",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
