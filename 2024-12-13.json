@@ -1,0 +1,26 @@
+{
+  "name": "Nelle Waters",
+  "age": 24,
+  "address": {
+    "street": "Ilpug Point",
+    "city": "Sohuzzu",
+    "state": "SC",
+    "zip": "39618"
+  },
+  "contact": {
+    "phone": "(610) 322-3884",
+    "servicePhone": "800765247"
+  },
+  "birthday": "1994-09-22T04:12:23.860Z",
+  "ip": "157.71.149.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Izomda sar cotsuw jiis ukeremec rozoti itoru coken jar sabi opesen ewufuale hudev du udoera mijuw giwtoode habewo. Vabija le pehkeg kajti talahfu ko faduv risun jo cil ir bep. Luz safvaha ebzet ja cit gat cu ivi sonuvutac cegati gogvahafo ciw nobohsid aldahu.",
+    "bio": "Ho ejufi opodev alatifa homdo mi kepac la tekusol lebsegif pigigkim zif tok hubejeod mimowo. Ohvac ci olaju la vi vektus renotfi nedos atwub cugebpik nivmul ac bermeil oki. De uf uzuropmum ho iwoed ilkece hotecu adufo fi lifentut dehle hubuloj hadwo bek vazwa. Gigutwu bezucedo rubu ohemi kual rofi dive vek fog caevoto paton nimsikjo anebube gow miko zepaha. Galidaw vo san ro wur bofek raka hozpekzuj ifule newmiw cilbo es hufkehu futu."
+  },
+  "apiKey": "dec0749ef91f9bcdb391046f1694830c284aa7393d80b958fbde57eac78d4349",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
