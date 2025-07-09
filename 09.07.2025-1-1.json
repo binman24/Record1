@@ -1,0 +1,25 @@
+{
+    "name": "Michael Davis",
+    "age": 73,
+    "address": {
+        "street": "Antonio Fort",
+        "city": "West Lisa",
+        "state": "North Dakota",
+        "zip": "34547"
+    },
+    "contact": {
+        "phone": "+1-580-271-0419x09467",
+        "servicePhone": "800349633"
+    },
+    "birthday": "1952-22-06",
+    "ip": "88.21.88.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Reflect whole energy whom. Bed subject production western in anyone. From successful education.",
+        "bio": "Deep choice beyond more arm. Training present he simply. Top give sometimes still.\nWell person live seem great man. Natural data before past. Book threat another another."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
