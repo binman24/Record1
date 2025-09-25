@@ -1,0 +1,25 @@
+{
+    "name": "Angela Bailey",
+    "age": 103,
+    "address": {
+        "street": "Heather Village",
+        "city": "Port Timothy",
+        "state": "Mississippi",
+        "zip": "58038"
+    },
+    "contact": {
+        "phone": "774.432.6727",
+        "servicePhone": "800707322"
+    },
+    "birthday": "1922-26-02",
+    "ip": "194.146.102.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Series certain according southern land vote. Spring research make road item develop doctor.",
+        "bio": "Executive service including see nice usually front. Tell position city purpose door. Fine born team.\nBeat step best sell. Leader east good ago several can. Across able eye citizen bring family great."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
