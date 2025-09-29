@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Black",
+    "age": 49,
+    "address": {
+        "street": "Sarah Stravenue",
+        "city": "South Joshua",
+        "state": "Oklahoma",
+        "zip": "18612"
+    },
+    "contact": {
+        "phone": "(771)799-6600x717",
+        "servicePhone": "800826143"
+    },
+    "birthday": "1976-25-08",
+    "ip": "100.156.117.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Use dog upon education. Figure thousand everyone game able baby campaign walk. Camera issue concern support science poor fact.",
+        "bio": "Responsibility meet consumer best whose policy gun. Not us company mention professor. Around become ball chance."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
