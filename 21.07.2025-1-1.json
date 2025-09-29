@@ -1,0 +1,25 @@
+{
+    "name": "Michael Schroeder",
+    "age": 109,
+    "address": {
+        "street": "Franklin Course",
+        "city": "East Scott",
+        "state": "Michigan",
+        "zip": "33635"
+    },
+    "contact": {
+        "phone": "850-272-9435",
+        "servicePhone": "800305503"
+    },
+    "birthday": "1916-07-09",
+    "ip": "166.56.250.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Also red doctor sort. Use believe remember card. Nor have catch behavior order cause.\nAuthor world word focus. Past those right factor not benefit office.",
+        "bio": "Standard focus style whose teacher television. Sometimes cell avoid with everyone TV.\nOthers something member describe beyond threat. Number land seven chance pattern society."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Dennis",
+    "age": 5,
+    "address": {
+        "street": "Matthew Falls",
+        "city": "Jacksonside",
+        "state": "Rhode Island",
+        "zip": "65889"
+    },
+    "contact": {
+        "phone": "522.697.9332",
+        "servicePhone": "800909647"
+    },
+    "birthday": "2020-15-10",
+    "ip": "33.107.123.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Protect science a what send it side. Officer middle whom family save prevent.\nSafe stand them result drive you. Husband require sing. Training describe sing office add be.",
+        "bio": "North space see old. Relate environmental president example.\nWant home Congress happy some.\nWall rate that stop unit. Organization water stuff want talk."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}

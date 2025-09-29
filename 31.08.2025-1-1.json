@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Mack",
+    "age": 56,
+    "address": {
+        "street": "Mclaughlin Meadows",
+        "city": "Waltersview",
+        "state": "Iowa",
+        "zip": "59684"
+    },
+    "contact": {
+        "phone": "001-275-534-4715x2074",
+        "servicePhone": "800090021"
+    },
+    "birthday": "1969-19-08",
+    "ip": "142.14.217.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Next speech fact responsibility opportunity expect executive late.",
+        "bio": "Least beyond American catch cell second early. Safe sign few wind. Society glass it democratic could four.\nDesign pick staff pass. Office ball next myself team."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}

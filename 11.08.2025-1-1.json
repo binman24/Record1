@@ -1,0 +1,25 @@
+{
+    "name": "Lori Moore",
+    "age": 53,
+    "address": {
+        "street": "Dylan Centers",
+        "city": "New Robertshire",
+        "state": "South Carolina",
+        "zip": "48765"
+    },
+    "contact": {
+        "phone": "+1-728-797-8544x96443",
+        "servicePhone": "800641333"
+    },
+    "birthday": "1972-07-05",
+    "ip": "66.74.153.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Cover thousand light sport. Person could across.\nExplain support will. Write significant his.\nWatch seven avoid us open. East shoulder ahead ok firm story.",
+        "bio": "Action any opportunity analysis contain sit article page. Dog magazine bill art exist worker. Call watch same. Despite sell read eat prove.\nParticipant fight speech reality. Soon nice dark life."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
