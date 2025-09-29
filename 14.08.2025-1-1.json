@@ -1,0 +1,25 @@
+{
+    "name": "Tricia Flores",
+    "age": 108,
+    "address": {
+        "street": "Wright Mountains",
+        "city": "New Patriciahaven",
+        "state": "Colorado",
+        "zip": "54625"
+    },
+    "contact": {
+        "phone": "662.448.8657",
+        "servicePhone": "800964773"
+    },
+    "birthday": "1917-22-10",
+    "ip": "66.53.65.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Year same right fact couple employee which. Various agency various course draw. Artist event most everybody choice do. Dog medical individual either window glass.",
+        "bio": "Upon page speak ability. Money young win claim.\nEvidence several dream too down check want growth. Organization pretty court fine. Top agent decision dream thought."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
