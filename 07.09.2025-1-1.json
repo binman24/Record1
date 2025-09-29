@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Stephens",
+    "age": 33,
+    "address": {
+        "street": "Gerald Causeway",
+        "city": "Edwardmouth",
+        "state": "Wyoming",
+        "zip": "36133"
+    },
+    "contact": {
+        "phone": "391-774-0273x128",
+        "servicePhone": "800333136"
+    },
+    "birthday": "1992-22-02",
+    "ip": "170.144.185.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Plant impact detail third imagine. Base per fine still.\nServe practice important news number poor business plant. Agency entire response voice evidence enough. Reduce course how claim tree career.",
+        "bio": "Century tonight usually build morning benefit. Quickly someone teach. Have perform open.\nHour technology something agree church alone. Town save close news fund. Cell argue moment administration."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
