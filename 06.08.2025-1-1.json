@@ -1,0 +1,25 @@
+{
+    "name": "Albert Smith",
+    "age": 85,
+    "address": {
+        "street": "Lori Villages",
+        "city": "Lake Lisa",
+        "state": "Alabama",
+        "zip": "57922"
+    },
+    "contact": {
+        "phone": "+1-670-939-8764x89604",
+        "servicePhone": "800111211"
+    },
+    "birthday": "1940-27-01",
+    "ip": "223.190.244.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Your like well wall authority set enjoy. Nothing wife detail financial sound light option. Stock world the technology political.",
+        "bio": "Two manager show guess explain. Mouth only very word street.\nWe already social physical note national experience. Alone everybody expect policy hope way. Parent act green senior."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

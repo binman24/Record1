@@ -1,0 +1,25 @@
+{
+    "name": "Holly Estes",
+    "age": 41,
+    "address": {
+        "street": "Rhonda Shoals",
+        "city": "Markborough",
+        "state": "Alaska",
+        "zip": "45606"
+    },
+    "contact": {
+        "phone": "(889)611-7211",
+        "servicePhone": "800739348"
+    },
+    "birthday": "1984-15-10",
+    "ip": "136.178.185.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Tax stop yard. Sound inside minute fast audience. Bring class college good.\nEdge source talk break. Skin goal will defense Mr social.",
+        "bio": "View citizen only which. Draw what general his. Region behavior side budget want."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
