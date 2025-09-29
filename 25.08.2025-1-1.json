@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Johnson",
+    "age": 85,
+    "address": {
+        "street": "Chavez Isle",
+        "city": "Scottland",
+        "state": "Montana",
+        "zip": "80813"
+    },
+    "contact": {
+        "phone": "001-420-938-6540x9943",
+        "servicePhone": "800931623"
+    },
+    "birthday": "1940-05-11",
+    "ip": "74.72.199.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy over mother guess push see from. Imagine affect when bed.\nEarly group contain law today policy. Why first customer me although company.\nDiscussion wonder he fill. Effect watch skill popular.",
+        "bio": "Once capital reveal live down fine data. Discuss you over peace author account.\nDevelopment Democrat make around. Perform at treatment. Again red big good stand."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
