@@ -1,0 +1,25 @@
+{
+    "name": "John Rivera",
+    "age": 67,
+    "address": {
+        "street": "Burton Row",
+        "city": "North Robin",
+        "state": "New Mexico",
+        "zip": "57600"
+    },
+    "contact": {
+        "phone": "001-538-653-5302x584",
+        "servicePhone": "800797627"
+    },
+    "birthday": "1958-11-08",
+    "ip": "141.115.37.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Attack agent a too. Safe sense speech plan father yes.\nWhether scene admit standard others. American five add third account part full.",
+        "bio": "Collection collection business modern very consider. Election popular describe reflect develop open watch."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
