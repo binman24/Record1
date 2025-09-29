@@ -1,0 +1,25 @@
+{
+    "name": "Michele Beasley",
+    "age": 79,
+    "address": {
+        "street": "Alexa Canyon",
+        "city": "Campbellfort",
+        "state": "Missouri",
+        "zip": "50161"
+    },
+    "contact": {
+        "phone": "(365)205-6625x109",
+        "servicePhone": "800102114"
+    },
+    "birthday": "1946-10-08",
+    "ip": "63.36.20.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Take matter material role house structure.\nAs bring doctor let different century. Author serious director day money read. Fact color clear program almost pay.",
+        "bio": "I in forward reveal behavior can. Act girl save half away. Young deal hope fly participant.\nCatch pull ask should."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}

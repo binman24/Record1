@@ -1,0 +1,25 @@
+{
+    "name": "Roberto Green",
+    "age": 84,
+    "address": {
+        "street": "Laura Motorway",
+        "city": "North Amybury",
+        "state": "Maryland",
+        "zip": "16611"
+    },
+    "contact": {
+        "phone": "(559)819-9765",
+        "servicePhone": "800086213"
+    },
+    "birthday": "1941-25-03",
+    "ip": "204.112.177.253",
+    "foo": "bar",
+    "profile": {
+        "about": "For field economy election personal woman night. Nearly attorney loss could debate woman politics.\nInterview station it least. Everything them sister low.",
+        "bio": "Drop despite senior clearly rule resource. Around family science.\nJust use later. Leader benefit instead pass would fill. Deal process only education player usually some."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
